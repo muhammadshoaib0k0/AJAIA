@@ -2,7 +2,7 @@
 
 A focused Google-Docs-style slice: create and edit rich-text documents, import files, attach files, and share documents with other users (owner / editor / viewer), all persisted and deployed.
 
-- **Live app:** `<LIVE_URL>` ← _replace before submitting_
+- **Live app:** https://thunderous-cannoli-4688a2.netlify.app/
 - **Walkthrough video:** see [`VIDEO_URL.txt`](VIDEO_URL.txt)
 - **Architecture note:** [`ARCHITECTURE.md`](ARCHITECTURE.md) · **AI workflow note:** [`AI_WORKFLOW.md`](AI_WORKFLOW.md) · **What's included:** [`SUBMISSION.md`](SUBMISSION.md)
 

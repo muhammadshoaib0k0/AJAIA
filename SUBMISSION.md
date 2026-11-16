@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| **Live app** | `<LIVE_URL>` |
-| **Walkthrough video** | `<VIDEO_URL>` (also in `VIDEO_URL.txt`) |
+| **Live app** | https://thunderous-cannoli-4688a2.netlify.app/ |
+| **Walkthrough video** | https://www.loom.com/share/5453028364994f05962d4a7ab4ccfe78 (also in `VIDEO_URL.txt`) |
 | **Demo accounts** | `alice@example.com`, `bob@example.com`, `carol@example.com`. Password **`demo1234`** for all (one-click buttons on the login screen). |
 | **Run locally** | `npm install && npm run dev` → http://localhost:8888 (Node 20.19+, no database or env vars needed). |
 
