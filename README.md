@@ -3,6 +3,7 @@
 A focused Google-Docs-style slice: create and edit rich-text documents, import files, attach files, and share documents with other users (owner / editor / viewer), all persisted and deployed.
 
 - **Live app:** https://thunderous-cannoli-4688a2.netlify.app/
+- **Source:** https://github.com/muhammadshoaib0k0/AJAIA (`git clone https://github.com/muhammadshoaib0k0/AJAIA.git`)
 - **Walkthrough video:** see [`VIDEO_URL.txt`](VIDEO_URL.txt)
 - **Architecture note:** [`ARCHITECTURE.md`](ARCHITECTURE.md) · **AI workflow note:** [`AI_WORKFLOW.md`](AI_WORKFLOW.md) · **What's included:** [`SUBMISSION.md`](SUBMISSION.md)
 
@@ -46,6 +47,7 @@ You can also sign up with any email. Accounts are real and have passwords, but t
 **Prerequisites:** Node.js **20.19+** and npm. Nothing else: local dev uses a JSON file store, so no database or env vars are needed.
 
 ```bash
+git clone https://github.com/muhammadshoaib0k0/AJAIA.git && cd AJAIA
 npm install
 npm run dev          # http://localhost:8888  (Netlify Dev: Vite frontend + API function)
 ```
